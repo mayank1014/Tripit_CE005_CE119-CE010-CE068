@@ -3,4 +3,5 @@ Tripit: Your Travel Companion is a website having well designed Database Schema 
 ## Technologies Used:
 
 For Frontend: HTML, Php, CSS, JavaScript
+
 For Database: Xampp, phpMyAdmin
